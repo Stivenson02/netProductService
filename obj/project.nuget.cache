@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s9j1yw3rZa6dp92EKeLWfRo3ym35H3Sqqdn8ie/lT0rzFl90yT8pdhNHJr5TpoKPKh4LpVpbx0A1k7Vuir+RkA==",
+  "dgSpecHash": "7TrOXCsnTXYkhDu9o6WJJs0JHdS+H4khUDcQ6dy5RtHccLrzUAL++oxD0HpQtgxThX7JmOv7XdHNZgj7h3j2Ug==",
   "success": true,
-  "projectFilePath": "/home/stivenson/Documentos/proyects/net/ProductService/ProductService.csproj",
+  "projectFilePath": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ProductService/ProductService.csproj",
   "expectedPackageFiles": [
     "/home/stivenson/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/stivenson/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.2/microsoft.aspnetcore.authentication.jwtbearer.8.0.2.nupkg.sha512",

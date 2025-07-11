@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/stivenson/Documentos/proyects/net/ProductService/ProductService.csproj": {}
+    "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ProductService/ProductService.csproj": {}
   },
   "projects": {
-    "/home/stivenson/Documentos/proyects/net/ProductService/ProductService.csproj": {
+    "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ProductService/ProductService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/stivenson/Documentos/proyects/net/ProductService/ProductService.csproj",
+        "projectUniqueName": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ProductService/ProductService.csproj",
         "projectName": "ProductService",
-        "projectPath": "/home/stivenson/Documentos/proyects/net/ProductService/ProductService.csproj",
+        "projectPath": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ProductService/ProductService.csproj",
         "packagesPath": "/home/stivenson/.nuget/packages/",
-        "outputPath": "/home/stivenson/Documentos/proyects/net/ProductService/obj/",
+        "outputPath": "/home/stivenson/Documentos/proyects/TestNetStivenMaldonado/ProductService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/stivenson/.nuget/NuGet/NuGet.Config"
